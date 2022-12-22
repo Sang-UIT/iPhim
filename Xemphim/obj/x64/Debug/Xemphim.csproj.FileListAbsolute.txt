@@ -1,0 +1,9 @@
+D:\LT C#\BaiTH3\Xemphim\Xemphim\bin\x64\Debug\Xemphim.exe.config
+D:\LT C#\BaiTH3\Xemphim\Xemphim\bin\x64\Debug\Xemphim.exe
+D:\LT C#\BaiTH3\Xemphim\Xemphim\bin\x64\Debug\Xemphim.pdb
+D:\LT C#\BaiTH3\Xemphim\Xemphim\obj\x64\Debug\Xemphim.Form2.resources
+D:\LT C#\BaiTH3\Xemphim\Xemphim\obj\x64\Debug\Xemphim.Form1.resources
+D:\LT C#\BaiTH3\Xemphim\Xemphim\obj\x64\Debug\Xemphim.Properties.Resources.resources
+D:\LT C#\BaiTH3\Xemphim\Xemphim\obj\x64\Debug\Xemphim.csproj.GenerateResource.Cache
+D:\LT C#\BaiTH3\Xemphim\Xemphim\obj\x64\Debug\Xemphim.exe
+D:\LT C#\BaiTH3\Xemphim\Xemphim\obj\x64\Debug\Xemphim.pdb
